@@ -34,3 +34,11 @@ em strong {
 .principal {
     background: #CCCCCC;
 }
+
+h2 {
+    text-align: center;
+}
+
+#imagembeficios {
+    width: 90%
+}
