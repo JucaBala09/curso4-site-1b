@@ -29,10 +29,12 @@ em strong {
 
 .beneficios {
     background: #ffffff;
+    padding: 20px;
 }
 
 .principal {
     background: #CCCCCC;
+    padding: 30px;
 }
 
 h2 {
@@ -40,8 +42,11 @@ h2 {
 }
 ul {
     display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
 }
 
 #imagembeficios {
-    width: 90%
+    width: 50%
 }
