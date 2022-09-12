@@ -1,5 +1,5 @@
 body {
-    background: #CCCCCC;
+    
 }
 
 #banner { 
@@ -29,4 +29,8 @@ em strong {
 
 .beneficios {
     background: #ffffff;
+}
+
+.principal {
+    background: #CCCCCC;
 }
